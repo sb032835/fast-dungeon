@@ -40,7 +40,7 @@ module.exports = function Solodungeon(mod) {
 				event.loc = new Vec3(49500, 129289, 3722)
                 return true;
 			case 9044: // 火神
-				event.loc = new Vec3(-100925, 115070, 4022)
+				event.loc = new Vec3(-116375, 115085, 4022)
 				return true;
             default: return;
         }
