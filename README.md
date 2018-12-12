@@ -1,2 +1,2 @@
 # fast-dungeon
-anything
+nothing
